@@ -1,3 +1,10 @@
+What this is
+============
+
+A full-ish set of javascript helpers, intended just to avoid reimplementing anything DOM does except in situations where doing so will result in usefully less code.
+
+The name is a reflection of the fact that this is not a derivative of any existing JS library or anything I do as work for my employer.
+
 Licence
 =======
 
